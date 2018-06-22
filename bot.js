@@ -233,7 +233,7 @@ if(!message.member.hasPermission("ADMINISTRATOR")) {
 });
 
 const adminprefix = "!";
-const devs = ['402043862480322562', '280312214395813888'];
+const devs = ['402043862480322562', '342690534000951306'];
  
 
 client.on('message', message => {
